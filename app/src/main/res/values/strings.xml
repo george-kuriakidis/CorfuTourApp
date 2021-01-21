@@ -1,0 +1,37 @@
+<resources>
+    <!-- Application categories -->
+    <string name="app_name">CorfuTourApp</string>
+    <string name="welcome">Welcome to Corfu</string>
+    <string name="pictures">Pictures</string>
+    <string name="sights">Sights</string>
+    <string name="food">Food</string>
+    <string name="drink">Drink</string>
+
+    <!-- Pictures category -->
+    <string name="historic_center">Historic center of Corfu</string>
+    <string name="vlaherna">Vlaherna Monastery</string>
+    <string name="barbati_view">Sea view from Barbati area</string>
+    <string name="corfu_town">Corfu town</string>
+
+    <!-- Sights category -->
+    <string name="new_fortress">New Fortress</string>
+    <string name="old_fortress">Old Fortress</string>
+    <string name="spianada">Spianada Square</string>
+    <string name="achillion">Achillion Palace</string>
+    <string name="casa">Casa Parlante</string>
+
+    <!-- Food category -->
+    <string name="ayli">Ayli Restaurant</string>
+    <string name="tsantsamini">Tsantsamini mezedopoleion</string>
+    <string name="flisvos">Flisvos Restaurant</string>
+    <string name="nolita">Nolita Restaurant</string>
+    <string name="aegli">Aegli Restaurant</string>
+
+    <!-- Drink category -->
+    <string name="imabari">Imabari Coctail Bar</string>
+    <string name="tales">Tales Coffee and Bar</string>
+    <string name="piedra">Piedra del Mare</string>
+    <string name="sabbia">Sabbia Coctail Bar</string>
+    <string name="sway">Sway Bar and Kitchen</string>
+
+</resources>
